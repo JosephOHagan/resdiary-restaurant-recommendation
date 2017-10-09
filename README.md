@@ -1,5 +1,6 @@
 # ResDiary
 Recommendations engine for ResDiary (https://www.resdiary.com/)
+Personal copy of (https://github.com/domantasjurkus/resdiary)
 
 ## iTeam:
 - Vladimir Bardarski (PeshoGoshov) 
